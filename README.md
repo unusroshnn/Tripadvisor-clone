@@ -30,4 +30,3 @@ This project is a front-end travel website interface built using **HTML** and **
 - **Footer**  
   Multi-column layout with links, social media icons, and region selectors
 
-## 📂 Folder Structure
